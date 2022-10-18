@@ -1,0 +1,573 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memcpy.o)
+                              app_stm32f7.o (memcpy)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o) (__call_exitprocs)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (atexit)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+                              /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .text          0x0000000000000000       0x40 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x0000000000000000       0x1c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x7c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .group         0x0000000000000000        0xc app_stm32f7.o
+ .rodata        0x0000000000000000        0x4 app_stm32f7.o
+ .group         0x0000000000000000        0xc led.o
+ .group         0x0000000000000000        0xc led.o
+ .group         0x0000000000000000        0xc led.o
+ .group         0x0000000000000000        0xc led.o
+ .group         0x0000000000000000        0xc led.o
+ .text          0x0000000000000000        0x0 led.o
+ .bss           0x0000000000000000        0x0 led.o
+ .debug_macro   0x0000000000000000      0xaa8 led.o
+ .debug_macro   0x0000000000000000      0x34e led.o
+ .debug_macro   0x0000000000000000       0x46 led.o
+ .debug_macro   0x0000000000000000       0x16 led.o
+ .debug_macro   0x0000000000000000      0x19d led.o
+ .group         0x0000000000000000        0xc system.o
+ .group         0x0000000000000000        0xc system.o
+ .group         0x0000000000000000        0xc system.o
+ .text          0x0000000000000000      0x148 system.o
+ .bss           0x0000000000000000        0x0 system.o
+ .debug_macro   0x0000000000000000      0xaa8 system.o
+ .debug_macro   0x0000000000000000      0x34e system.o
+ .debug_macro   0x0000000000000000       0x3a system.o
+ .group         0x0000000000000000        0xc timer.o
+ .bss           0x0000000000000000        0x0 timer.o
+ .debug_macro   0x0000000000000000      0xaa8 timer.o
+ .group         0x0000000000000000        0xc ../src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../src/libwolfboot.o
+ .bss           0x0000000000000000        0x0 ../src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0xaa8 ../src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x34e ../src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x46 ../src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x16 ../src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x19d ../src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../hal/stm32f7.o
+ .group         0x0000000000000000        0xc ../hal/stm32f7.o
+ .group         0x0000000000000000        0xc ../hal/stm32f7.o
+ .group         0x0000000000000000        0xc ../hal/stm32f7.o
+ .group         0x0000000000000000        0xc ../hal/stm32f7.o
+ .group         0x0000000000000000        0xc ../hal/stm32f7.o
+ .text          0x0000000000000000        0x0 ../hal/stm32f7.o
+ .bss           0x0000000000000000        0x0 ../hal/stm32f7.o
+ .text.wolfBoot_image_confirm_signature_ok
+                0x0000000000000000       0x14 ../hal/stm32f7.o
+ .debug_macro   0x0000000000000000      0x34e ../hal/stm32f7.o
+ .debug_macro   0x0000000000000000       0x46 ../hal/stm32f7.o
+ .debug_macro   0x0000000000000000       0x16 ../hal/stm32f7.o
+ .group         0x0000000000000000        0xc startup_arm.o
+ .debug_macro   0x0000000000000000      0xaa8 startup_arm.o
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x48 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x0000000000000000       0x14 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xc4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .text.atexit   0x0000000000000000        0xc /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x0000000000000000       0x2c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000000000       0x8c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x0000000000000000        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .fini          0x0000000000000000        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x000000001000fb00 0x000000000005ff00 xr
+RAM              0x0000000020000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD app_stm32f7.o
+LOAD led.o
+LOAD system.o
+LOAD timer.o
+LOAD ../src/libwolfboot.o
+LOAD ../hal/stm32f7.o
+LOAD startup_arm.o
+START GROUP
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+END GROUP
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+.text           0x000000001000fb00     0x1200
+                0x000000001000fb00                _start_text = .
+ *(.isr_vector)
+ .isr_vector    0x000000001000fb00      0x100 startup_arm.o
+                0x000000001000fb00                IV
+ *(.init)
+ .init          0x000000001000fc00        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x000000001000fc00                _init
+ *(.fini)
+ .fini          0x000000001000fc04        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x000000001000fc04                _fini
+ *(.text*)
+ .text          0x000000001000fc08      0x5dc app_stm32f7.o
+                0x000000001000fc08                uart_write
+                0x000000001000fc38                uart_print
+                0x000000001000fce0                uart_setup
+                0x000000001000fda0                uart_read
+                0x000000001000fe68                uart_update_mgr
+                0x000000001001011c                usr_led_on
+                0x00000000100101a8                usr_led_off
+                0x00000000100101bc                main
+ .text          0x00000000100101e4        0x4 timer.o
+                0x00000000100101e4                isr_tim2
+ .text          0x00000000100101e8      0x6f0 ../src/libwolfboot.o
+                0x000000001001037e                wolfBoot_set_partition_state
+                0x00000000100103e8                wolfBoot_set_update_sector_flag
+                0x00000000100104a0                wolfBoot_get_partition_state
+                0x00000000100104ec                wolfBoot_get_update_sector_flag
+                0x0000000010010560                wolfBoot_erase_partition
+                0x00000000100105cc                wolfBoot_update_trigger
+                0x00000000100105f2                wolfBoot_success
+                0x0000000010010618                wolfBoot_find_header
+                0x0000000010010716                wolfBoot_get_blob_version
+                0x0000000010010770                wolfBoot_get_blob_type
+                0x00000000100107cc                wolfBoot_get_blob_diffbase_version
+                0x0000000010010858                wolfBoot_get_image_version
+                0x000000001001087e                wolfBoot_get_diffbase_version
+                0x00000000100108a4                wolfBoot_get_image_type
+ .text.clock_pll_on
+                0x00000000100108d8      0x19c ../hal/stm32f7.o
+ .text.hal_init
+                0x0000000010010a74        0xc ../hal/stm32f7.o
+                0x0000000010010a74                hal_init
+ .text          0x0000000010010a80       0x90 startup_arm.o
+                0x0000000010010a80                isr_reset
+                0x0000000010010b04                isr_fault
+                0x0000000010010b06                isr_memfault
+                0x0000000010010b08                isr_busfault
+                0x0000000010010b0a                isr_usagefault
+                0x0000000010010b0c                isr_empty
+ .text          0x0000000010010b10       0xec /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memcpy.o)
+                0x0000000010010b10                memcpy
+ .text.memset   0x0000000010010bfc       0xa4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+                0x0000000010010bfc                memset
+ .text.memset.__stub
+                0x0000000010010ca0       0x28 linker stubs
+ *(.rodata*)
+ .rodata        0x0000000010010cc8        0x4 ../src/libwolfboot.o
+ .rodata.flash_sector
+                0x0000000010010ccc       0x34 ../hal/stm32f7.o
+                0x0000000010010ccc                flash_sector
+                0x0000000010010d00                . = ALIGN (0x4)
+                0x0000000010010d00                _end_text = .
+                0x0000000010010d00                _stored_data = .
+
+.glue_7         0x0000000010010d00        0x0
+ .glue_7        0x0000000010010d00        0x0 linker stubs
+
+.glue_7t        0x0000000010010d00        0x0
+ .glue_7t       0x0000000010010d00        0x0 linker stubs
+
+.vfp11_veneer   0x0000000010010d00        0x0
+ .vfp11_veneer  0x0000000010010d00        0x0 linker stubs
+
+.v4_bx          0x0000000010010d00        0x0
+ .v4_bx         0x0000000010010d00        0x0 linker stubs
+
+.iplt           0x0000000010010d00        0x0
+ .iplt          0x0000000010010d00        0x0 app_stm32f7.o
+
+.rel.dyn        0x0000000010010d00        0x0
+ .rel.iplt      0x0000000010010d00        0x0 app_stm32f7.o
+
+.data           0x0000000020000000      0x73c load address 0x0000000010010d00
+                0x0000000020000000                _start_data = .
+ *(.data*)
+ .data          0x0000000020000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000020000000        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000020000004        0x0 app_stm32f7.o
+ .data          0x0000000020000004        0x0 led.o
+ .data          0x0000000020000004        0x0 system.o
+ .data          0x0000000020000004        0x0 timer.o
+ .data          0x0000000020000004        0x0 ../src/libwolfboot.o
+ .data          0x0000000020000004        0x0 ../hal/stm32f7.o
+ .data          0x0000000020000004        0x0 startup_arm.o
+ .data          0x0000000020000004        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000020000004        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+                0x0000000020000004                _impure_ptr
+ .data.impure_data
+                0x0000000020000008      0x428 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .data          0x0000000020000430        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .data          0x0000000020000430        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memcpy.o)
+ .data          0x0000000020000430        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .data          0x0000000020000430        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000430        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000430                __atexit_recursive_mutex
+ .data          0x0000000020000434        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .data          0x0000000020000434        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .data          0x0000000020000434        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .data          0x0000000020000434        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020000434        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000020000434        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020000434                . = ALIGN (0x4)
+ *(.ramcode)
+ .ramcode       0x0000000020000434      0x308 ../hal/stm32f7.o
+                0x00000000200004e4                hal_flash_write
+                0x0000000020000550                hal_flash_unlock
+                0x000000002000057c                hal_flash_lock
+                0x0000000020000590                hal_flash_erase
+                0x0000000020000700                hal_prepare_boot
+                0x000000002000070a                hal_erase_bank2
+                0x000000002000073c                . = ALIGN (0x4)
+                0x000000002000073c                _end_data = .
+
+.igot.plt       0x000000002000073c        0x0 load address 0x000000001001143c
+ .igot.plt      0x000000002000073c        0x0 app_stm32f7.o
+
+.bss            0x000000002000073c      0x11c load address 0x000000001001143c
+                0x000000002000073c                _start_bss = .
+ *(.bss*)
+ .bss           0x000000002000073c      0x110 app_stm32f7.o
+ .bss           0x000000002000084c        0x8 startup_arm.o
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000020000854        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000854                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x0000000020000858                . = ALIGN (0x4)
+ *fill*         0x0000000020000855        0x3 
+                0x0000000020000858                _end_bss = .
+                0x0000000020000858                _end = .
+                0x0000000020000858                PROVIDE (_start_heap = _end)
+                0x0000000020010000                PROVIDE (_end_stack = (ORIGIN (RAM) + LENGTH (RAM)))
+OUTPUT(image.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ .ARM.attributes
+                0x0000000000000000       0x1d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x2d app_stm32f7.o
+ .ARM.attributes
+                0x0000000000000092       0x33 led.o
+ .ARM.attributes
+                0x00000000000000c5       0x2d system.o
+ .ARM.attributes
+                0x00000000000000f2       0x2d timer.o
+ .ARM.attributes
+                0x000000000000011f       0x2d ../src/libwolfboot.o
+ .ARM.attributes
+                0x000000000000014c       0x2d ../hal/stm32f7.o
+ .ARM.attributes
+                0x0000000000000179       0x2d startup_arm.o
+ .ARM.attributes
+                0x00000000000001a6       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000001d3       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000200       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000022d       0x1b /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000248       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000275       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000002a2       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000002cf       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000002fc       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000329       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000356       0x2d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000383       0x1d /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 app_stm32f7.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a led.o
+ .comment       0x0000000000000049       0x4a system.o
+ .comment       0x0000000000000049       0x4a timer.o
+ .comment       0x0000000000000049       0x4a ../src/libwolfboot.o
+ .comment       0x0000000000000049       0x4a ../hal/stm32f7.o
+ .comment       0x0000000000000049       0x4a startup_arm.o
+
+.debug_info     0x0000000000000000     0x13b5
+ .debug_info    0x0000000000000000      0x4b9 app_stm32f7.o
+ .debug_info    0x00000000000004b9       0x68 led.o
+ .debug_info    0x0000000000000521       0xb4 system.o
+ .debug_info    0x00000000000005d5       0x3c timer.o
+ .debug_info    0x0000000000000611      0x7e7 ../src/libwolfboot.o
+ .debug_info    0x0000000000000df8      0x44b ../hal/stm32f7.o
+ .debug_info    0x0000000000001243      0x172 startup_arm.o
+
+.debug_abbrev   0x0000000000000000      0x7ea
+ .debug_abbrev  0x0000000000000000      0x227 app_stm32f7.o
+ .debug_abbrev  0x0000000000000227       0x29 led.o
+ .debug_abbrev  0x0000000000000250       0x83 system.o
+ .debug_abbrev  0x00000000000002d3       0x31 timer.o
+ .debug_abbrev  0x0000000000000304      0x1f4 ../src/libwolfboot.o
+ .debug_abbrev  0x00000000000004f8      0x222 ../hal/stm32f7.o
+ .debug_abbrev  0x000000000000071a       0xd0 startup_arm.o
+
+.debug_aranges  0x0000000000000000      0x140
+ .debug_aranges
+                0x0000000000000000       0x20 app_stm32f7.o
+ .debug_aranges
+                0x0000000000000020       0x18 led.o
+ .debug_aranges
+                0x0000000000000038       0x20 system.o
+ .debug_aranges
+                0x0000000000000058       0x20 timer.o
+ .debug_aranges
+                0x0000000000000078       0x20 ../src/libwolfboot.o
+ .debug_aranges
+                0x0000000000000098       0x88 ../hal/stm32f7.o
+ .debug_aranges
+                0x0000000000000120       0x20 startup_arm.o
+
+.debug_macro    0x0000000000000000     0x3371
+ .debug_macro   0x0000000000000000      0x340 app_stm32f7.o
+ .debug_macro   0x0000000000000340      0xaa8 app_stm32f7.o
+ .debug_macro   0x0000000000000de8       0x22 app_stm32f7.o
+ .debug_macro   0x0000000000000e0a       0x5e app_stm32f7.o
+ .debug_macro   0x0000000000000e68       0x18 app_stm32f7.o
+ .debug_macro   0x0000000000000e80       0x94 app_stm32f7.o
+ .debug_macro   0x0000000000000f14       0x35 app_stm32f7.o
+ .debug_macro   0x0000000000000f49       0x34 app_stm32f7.o
+ .debug_macro   0x0000000000000f7d       0x16 app_stm32f7.o
+ .debug_macro   0x0000000000000f93       0x57 app_stm32f7.o
+ .debug_macro   0x0000000000000fea       0x97 app_stm32f7.o
+ .debug_macro   0x0000000000001081      0x341 app_stm32f7.o
+ .debug_macro   0x00000000000013c2       0xfd app_stm32f7.o
+ .debug_macro   0x00000000000014bf       0x10 app_stm32f7.o
+ .debug_macro   0x00000000000014cf       0x16 app_stm32f7.o
+ .debug_macro   0x00000000000014e5       0x43 app_stm32f7.o
+ .debug_macro   0x0000000000001528       0x34 app_stm32f7.o
+ .debug_macro   0x000000000000155c       0x10 app_stm32f7.o
+ .debug_macro   0x000000000000156c       0x58 app_stm32f7.o
+ .debug_macro   0x00000000000015c4      0x182 app_stm32f7.o
+ .debug_macro   0x0000000000001746       0x10 app_stm32f7.o
+ .debug_macro   0x0000000000001756       0x6a app_stm32f7.o
+ .debug_macro   0x00000000000017c0       0x1c app_stm32f7.o
+ .debug_macro   0x00000000000017dc       0x52 app_stm32f7.o
+ .debug_macro   0x000000000000182e       0x22 app_stm32f7.o
+ .debug_macro   0x0000000000001850       0x10 app_stm32f7.o
+ .debug_macro   0x0000000000001860       0x52 app_stm32f7.o
+ .debug_macro   0x00000000000018b2       0xd5 app_stm32f7.o
+ .debug_macro   0x0000000000001987       0x1c app_stm32f7.o
+ .debug_macro   0x00000000000019a3       0x3d app_stm32f7.o
+ .debug_macro   0x00000000000019e0       0x16 app_stm32f7.o
+ .debug_macro   0x00000000000019f6      0x16f app_stm32f7.o
+ .debug_macro   0x0000000000001b65       0x16 app_stm32f7.o
+ .debug_macro   0x0000000000001b7b       0x35 app_stm32f7.o
+ .debug_macro   0x0000000000001bb0       0x16 app_stm32f7.o
+ .debug_macro   0x0000000000001bc6       0x29 app_stm32f7.o
+ .debug_macro   0x0000000000001bef      0x34e app_stm32f7.o
+ .debug_macro   0x0000000000001f3d       0x16 app_stm32f7.o
+ .debug_macro   0x0000000000001f53       0x3a app_stm32f7.o
+ .debug_macro   0x0000000000001f8d       0x46 app_stm32f7.o
+ .debug_macro   0x0000000000001fd3       0x16 app_stm32f7.o
+ .debug_macro   0x0000000000001fe9      0x19d app_stm32f7.o
+ .debug_macro   0x0000000000002186       0x45 led.o
+ .debug_macro   0x00000000000021cb       0xd5 system.o
+ .debug_macro   0x00000000000022a0       0x11 timer.o
+ .debug_macro   0x00000000000022b1       0xbc ../src/libwolfboot.o
+ .debug_macro   0x000000000000236d       0x92 ../src/libwolfboot.o
+ .debug_macro   0x00000000000023ff      0x257 ../hal/stm32f7.o
+ .debug_macro   0x0000000000002656      0xaa8 ../hal/stm32f7.o
+ .debug_macro   0x00000000000030fe      0x1ca ../hal/stm32f7.o
+ .debug_macro   0x00000000000032c8       0x92 ../hal/stm32f7.o
+ .debug_macro   0x000000000000335a       0x17 startup_arm.o
+
+.debug_line     0x0000000000000000     0x12c0
+ .debug_line    0x0000000000000000      0x727 app_stm32f7.o
+ .debug_line    0x0000000000000727       0xe5 led.o
+ .debug_line    0x000000000000080c      0x1ab system.o
+ .debug_line    0x00000000000009b7       0x3b timer.o
+ .debug_line    0x00000000000009f2      0x3e1 ../src/libwolfboot.o
+ .debug_line    0x0000000000000dd3      0x43e ../hal/stm32f7.o
+ .debug_line    0x0000000000001211       0xaf startup_arm.o
+
+.debug_str      0x0000000000000000     0xa0af
+ .debug_str     0x0000000000000000     0x88be app_stm32f7.o
+                                       0x8b2c (size before relaxing)
+ .debug_str     0x00000000000088be        0x6 led.o
+                                       0x4191 (size before relaxing)
+ .debug_str     0x00000000000088c4      0x2e3 system.o
+                                       0x3bf8 (size before relaxing)
+ .debug_str     0x0000000000008ba7       0x11 timer.o
+                                       0x2d83 (size before relaxing)
+ .debug_str     0x0000000000008bb8      0x9c0 ../src/libwolfboot.o
+                                       0x4beb (size before relaxing)
+ .debug_str     0x0000000000009578      0xa79 ../hal/stm32f7.o
+                                       0x5271 (size before relaxing)
+ .debug_str     0x0000000000009ff1       0xbe startup_arm.o
+                                       0x2e3d (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x850
+ .debug_frame   0x0000000000000000      0x148 app_stm32f7.o
+ .debug_frame   0x0000000000000148       0x38 system.o
+ .debug_frame   0x0000000000000180       0x20 timer.o
+ .debug_frame   0x00000000000001a0      0x2d0 ../src/libwolfboot.o
+ .debug_frame   0x0000000000000470      0x150 ../hal/stm32f7.o
+ .debug_frame   0x00000000000005c0       0x7c startup_arm.o
+ .debug_frame   0x000000000000063c       0x28 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000664       0x2c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000690       0x2c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000006bc       0x5c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000718       0x20 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000738       0x34 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-fini.o)
+ .debug_frame   0x000000000000076c       0xb0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-lock.o)
+ .debug_frame   0x000000000000081c       0x34 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-__atexit.o)
+
+.debug_ranges   0x0000000000000000       0x78
+ .debug_ranges  0x0000000000000000       0x78 ../hal/stm32f7.o

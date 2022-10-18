@@ -138,7 +138,6 @@
 #       define WOLFSSL_SP_NO_3072
 #       define WOLFSSL_SP_NO_4096
 #   endif
-#   define WC_ASN_HASH_SHA256
 #endif
 
 #ifdef WOLFBOOT_SIGN_RSA3072
@@ -157,7 +156,6 @@
 #       define WOLFSSL_SP_NO_2048
 #       define WOLFSSL_SP_NO_4096
 #   endif
-#   define WC_ASN_HASH_SHA256
 #endif
 
 #ifdef WOLFBOOT_SIGN_RSA4096
@@ -177,21 +175,16 @@
 #       define WOLFSSL_SP_NO_2048
 #       define WOLFSSL_SP_NO_3072
 #   endif
-#   define WC_ASN_HASH_SHA256
 #endif
 
 #ifdef WOLFBOOT_HASH_SHA3_384
 #   define WOLFSSL_SHA3
-#   ifdef NO_RSA
-#       define NO_SHA256
-#   endif
+#   define NO_SHA256
 #endif
 
 #ifdef WOLFBOOT_HASH_SHA384
 #   define WOLFSSL_SHA384
-#   ifdef NO_RSA
-#       define NO_SHA256
-#   endif
+#   define NO_SHA256
 #endif
 
 #ifdef EXT_ENCRYPTED

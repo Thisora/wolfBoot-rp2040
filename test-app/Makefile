@@ -6,6 +6,14 @@ TARGET?=none
 ARCH?=ARM
 MCUXPRESSO_CMSIS?=$(MCUXPRESSO)/CMSIS
 
+ifeq ($(TARGET),pico)
+  # Compile SDK
+  -include 
+  
+  LSCRIPT_TEMPLATE=pico.ld
+
+endif
+
 
 ifeq ($(TARGET),sim)
   LDFLAGS=-Wl,-gc-sections -Wl,-Map=image.map
@@ -238,6 +246,8 @@ ifeq ($(TARGET),psoc6)
 endif
 
 CFLAGS+=-I../lib/wolfssl
+
+
 
 
 standalone:CFLAGS+=-D"TEST_APP_STANDALONE"

@@ -388,6 +388,10 @@ endif
 
 BOOT_IMG?=test-app/image.bin
 
+ifeq ($(TARGET),pico)
+  BOOT_IMG=../build/image.bin # Add this to get correct image.bin file
+endif
+
 ## Update mechanism
 ifeq ($(ARCH),AARCH64)
   CFLAGS+=-DMMU -DWOLFBOOT_DUALBOOT
