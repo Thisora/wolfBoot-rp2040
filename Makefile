@@ -172,11 +172,12 @@ keytools:
 	@$(OBJCOPY) -v -I binary -O elf32-littlearm -B arm \
 		--rename-section  .data=.image_app \
 		--set-section-alignment .data=8 \
+		--set-section-flag .data=code \
 		$^ $@
 
 wolfboot.o: wolfboot.bin
 	@echo "\t[OBJCOPY]" $^ " --> " $@
-	@$(OBJCOPY) -I binary -O elf32-littlearm -B arm --rename-section .data=.boot3,code,alloc $^ $@
+	@$(OBJCOPY) -I binary -O elf32-littlearm -B arm --rename-section .data=.boot3,code $^ $@
 
 # test-app/image.elf: wolfboot.elf
 # 	$(Q)$(MAKE) -C test-app WOLFBOOT_ROOT=$(WOLFBOOT_ROOT) image.elf
@@ -198,7 +199,7 @@ internal_flash.dd: image_v1_signed.bin wolfboot.elf $(BINASSEMBLE)
 #                               $(WOLFBOOT_PARTITION_BOOT_ADDRESS) ../build/image_v1_signed.bin
 
 #Modified target of image_v1_signed 
-$(MAIN_TARGET): $(BOOT_IMG) wolfboot.o $(PRIVATE_KEY) ../build/obj/image_v1_signed.o $(LSCRIPT_FINAL)
+$(MAIN_TARGET): $(PRIVATE_KEY) $(BOOT_IMG) wolfboot.o ../build/obj/image_v1_signed.o $(LSCRIPT_FINAL)
 	@echo "\t[LinkIt] $@"
 	@echo "\twolfboot.o ../build/obj/image_v1_signed.o"
 	$(Q)$(LD) $(LDFLAGS_COMPLET) $(LD_START_GROUP) wolfboot.o ../build/obj/image_v1_signed.o $(LD_END_GROUP) -o $@

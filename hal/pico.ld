@@ -29,7 +29,6 @@ MEMORY
     SCRATCH_Y(rwx) : ORIGIN = 0x20041000, LENGTH = 4k
 }
 
-ENTRY(_entry_point)
 
 SECTIONS
 {

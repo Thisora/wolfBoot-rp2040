@@ -1,3 +1,22 @@
+# FORK:
+This is a fork of official wolfboot to work with RP2040. *IMPORTANT* Wolfboot is used as stage 3 bootloader !
+This fork is submodule and image of application is suppose to be places in ../build/image.bin.
+Same as wolfboot, first clone submodules:
+```sh
+git submodule update --init
+```
+Then generate private key:
+```sh
+make wolfboot_signing_private_key.der
+```
+
+
+
+
+
+
+
+
 # wolfBoot
 wolfSSL Secure Bootloader ([Home page](https://www.wolfssl.com/products/wolfboot/))
 
