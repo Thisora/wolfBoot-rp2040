@@ -7,15 +7,14 @@ git submodule update --init
 ```
 Then generate private key:
 ```sh
-make wolfboot_signing_private_key.der
+make keytools
+make
 ```
+The final executable is factory.elf.
 
-
-
-
-
-
-
+---
+Raemy Mathis
+HES-SO - Swissdotnet SA
 
 # wolfBoot
 wolfSSL Secure Bootloader ([Home page](https://www.wolfssl.com/products/wolfboot/))
