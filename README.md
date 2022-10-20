@@ -1,5 +1,5 @@
 # FORK:
-This is a fork of official wolfboot to work with RP2040. *IMPORTANT* Wolfboot is used as stage 3 bootloader !
+This is a fork of official wolfboot to work with RP2040. *IMPORTANT* Wolfboot is used as stage 3 bootloader ! 
 This fork is submodule and image of application is suppose to be places in ../build/image.bin.
 Same as wolfboot, first clone submodules:
 ```sh
@@ -13,11 +13,12 @@ make
 The final executable is factory.elf.
 
 ## What is different than Wolfboot ?
-Nothing ! And that's why this project is very interesting. During compilation process, Wolfboot use output as binary files. To assemble everything, they use a simple C programme that copy binary bytes to a single output file: `/src/binassemble.c` or `$(BINASSEMBLE)` in ```Makefile```.
+Nothing ! And that's why this project is very interesting. During compilation process, Wolfboot use output as binary files. To assemble everything, they use a simple C programme that copy binary bytes to a single output file: `/src/binassemble.c` or `$(BINASSEMBLE)` in ```Makefile```. They don't use linker probably to increase portability and keep assembly simple.
+Anyway as this project is part of a PoC i changed compilation of wolfboot to let the linker do the tricks. So now instead of generating a full ready to use binary file, it generate object that you can link as you want in your final linker script called in Makefile ```LSCRIPT_FINAL```. That's it ! 
+Of course you have to provide every additional object that you want to add in your linker-script. For example i provided the stage 2 bootloader of the pico-sdk by compiling it as object ``bs2.o``.
 
 ---
-Raemy Mathis
-HES-SO - Swissdotnet SA
+
 
 # wolfBoot
 wolfSSL Secure Bootloader ([Home page](https://www.wolfssl.com/products/wolfboot/))
