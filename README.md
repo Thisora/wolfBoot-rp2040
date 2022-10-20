@@ -12,6 +12,9 @@ make
 ```
 The final executable is factory.elf.
 
+## What is different than Wolfboot ?
+Nothing ! And that's why this project is very interesting. During compilation process, Wolfboot use output as binary files. To assemble everything, they use a simple C programme that copy binary bytes to a single output file: `/src/binassemble.c` or `$(BINASSEMBLE)` in ```Makefile```.
+
 ---
 Raemy Mathis
 HES-SO - Swissdotnet SA
