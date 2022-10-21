@@ -177,7 +177,7 @@ keytools:
 
 wolfboot.o: wolfboot.bin
 	@echo "\t[OBJCOPY]" $^ " --> " $@
-	@$(OBJCOPY) -I binary -O elf32-littlearm -B arm --rename-section .data=.boot3,code $^ $@
+	@$(OBJCOPY) -I binary -O elf32-littlearm -B arm --rename-section .data=.boot3,code,alloc,contents $^ $@
 
 # test-app/image.elf: wolfboot.elf
 # 	$(Q)$(MAKE) -C test-app WOLFBOOT_ROOT=$(WOLFBOOT_ROOT) image.elf
